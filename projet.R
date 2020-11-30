@@ -29,6 +29,7 @@ for (i in 1:5){
 h<-c(1:20)
 c<-sample(h)
 c[21]<-c[1]
+d<-c(2:20)
 #********************************
 #validation function 
 
