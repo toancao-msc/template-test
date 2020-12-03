@@ -16,6 +16,8 @@ for (i in 1:20){
 #delete 5 pairs of cities
 a<-c(3,5,7,8,1)
 b<-c(4,11,18,13,10)
+b1<-0
+f<-0
 
 for (i in 1:5){
   
